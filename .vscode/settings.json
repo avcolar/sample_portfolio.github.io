@@ -1,6 +1,7 @@
 {
-    "liveServer.settings.useLocalIp": true,
-    "liveServer.settings.fullReload": true,
-    "liveServer.settings.CustomBrowser": null,
-    "liveServer.settings.showOnStatusbar": true
+    "liveServer.settings.useLocalIp": false,
+    "liveServer.settings.fullReload": false,
+    "liveServer.settings.CustomBrowser": "firefox",
+    "liveServer.settings.showOnStatusbar": true,
+    "liveServer.settings.multiRootWorkspaceName": "website"
 }
